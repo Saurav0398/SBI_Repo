@@ -1,0 +1,4 @@
+#pwd
+#date
+#rmdir
+#cd
