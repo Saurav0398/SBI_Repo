@@ -1,1 +1,1 @@
-This is demo file for the new project
+This is the demo file for the new project
